@@ -43,4 +43,5 @@
 ### ✨ Let's Connect
 
 📬 Mail me at: [jp2746360@gmail.com](mailto:jp2746360@gmail.com)  
-🌐 [Portfolio Website Coming Soon...]
+🌐 [Check out my Portfolio Website](https://shrip6.github.io)
+
